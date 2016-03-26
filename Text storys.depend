@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1459029962 source:c:\users\tyty\documents\github\text-based-stories\main.cpp
+	<iostream>
+	<string>
+	<time.h>
+	<cstdlib>
+
